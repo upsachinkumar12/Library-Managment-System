@@ -1,4 +1,4 @@
-# 📚 CS253: Library Management System
+# 📚 Library Management System
 
 This project implements a **Library Management System** in C++ using **Object-Oriented Programming (OOP)** principles. The system supports multiple user roles with distinct functionalities. The main implementation can be found in [`main.cpp`](/main.cpp). All functionalities mentioned in the [Problem Statement](/Problem_statement.pdf) have been implemented accordingly.
 
@@ -27,7 +27,7 @@ This project implements a **Library Management System** in C++ using **Object-Or
 - 📚 **Book Management** – Search, borrow, return, and reserve books.
 - 📊 **Fine Calculation** – Automatically calculates overdue fines.
 - 👤 **Role-Based Permissions** – Different access levels for Students, Professors, and Librarians.
-- 🏛️ **CSV Database System** – Persistent storage for all records.
+- 🏛️ **Text Database System** – Persistent storage for all records.
 
 ---
 
